@@ -15,4 +15,4 @@
 * **記事本**
     * [點此查看 NotePad ](https://github.com/Ryan87960/NotePad)
 * **BMI計算**
-    * [點此查看 BMI-Example ]([https://github.com/Ryan87960/NotePad](https://github.com/Ryan87960/BMI-Example)
+    * [點此查看 BMI-Example ](https://github.com/Ryan87960/BMI-Example)
